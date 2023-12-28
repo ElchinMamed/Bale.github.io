@@ -1,2 +1,2 @@
-# Bale.github.io
+# Balee.github.io
 Bale
